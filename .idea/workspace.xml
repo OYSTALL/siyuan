@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="999acbf5-fb30-4d81-b490-9474dea1917f" name="Changes" comment="ti">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/siyuan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blobs/sha256/156b02777d1fe0c67c361d35c98ad64527c6fc2636273c28af66d944750fecf0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blobs/sha256/1d647c0b8ed690d6af181d0ac929a86769262e929ec92051416d63c0ce76a31a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blobs/sha256/30440ab7ce1379e6fcf30a3c2173ee9d25260aec68fa8f69b1f51c90b424177e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blobs/sha256/46908e7b6881ecf99294e5e04aeaff3e372ffcb5d83b3b2efdcc58c2266c9d45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blobs/sha256/b481b11ec678b2d43b773e441752e75a53c529edfcfc57dd6da62c0e5ffbecc9.7z" beforeDir="false" afterPath="$PROJECT_DIR$/siyuan-dev-0523_2.7z.001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blobs/sha256/bfc29ae3e21efe095d89c43b0f6eeb1e2fdf99d286ea22b036434723b8113167.7z" beforeDir="false" afterPath="$PROJECT_DIR$/siyuan-dev-0523_2.7z.002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blobs/sha256/c9e3c59c00f5b635b7a628b76aa09882f832d5ec0b61f362e5be1e0cded90ffa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blobs/sha256/cef782767cf2a3fae6395c6b24e9914312e49feb54866a7dfa14ff1c35f04885" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blobs/sha256/d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blobs/sha256/ee007e79ac043c7ec442055827b9259358a388c378cb17c57b06f8e293933e0b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oci-layout" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2gjA5w7l9oClF2jZbYIgfN1AXNh" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="999acbf5-fb30-4d81-b490-9474dea1917f" name="Changes" comment="" />
+      <created>1716200434273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716200434273</updated>
+      <workItem from="1716200436059" duration="10115000" />
+      <workItem from="1716339696468" duration="61000" />
+      <workItem from="1716339772782" duration="2624000" />
+      <workItem from="1716430343122" duration="1249000" />
+    </task>
+    <task id="LOCAL-00001" summary="ti">
+      <created>1716200592998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716200592998</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ti">
+      <created>1716257941581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716257941581</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ti">
+      <created>1716273126568</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716273126568</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ti">
+      <created>1716290693121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716290693121</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ti">
+      <created>1716299792015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716299792015</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ti">
+      <created>1716299988439</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716299988439</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ti">
+      <created>1716300233799</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716300233799</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ti">
+      <created>1716300637240</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716300637240</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ti">
+      <created>1716340014386</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716340014386</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ti">
+      <created>1716340105700</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716340105700</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ti">
+      <created>1716355985250</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716355985250</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ti">
+      <created>1716356279282</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716356279282</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ti" />
+    <option name="LAST_COMMIT_MESSAGE" value="ti" />
+  </component>
+</project>
